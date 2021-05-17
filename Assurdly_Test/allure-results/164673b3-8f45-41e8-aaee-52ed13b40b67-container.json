@@ -1,0 +1,1 @@
+{"uuid":"164673b3-8f45-41e8-aaee-52ed13b40b67","name":"AmazonProject","children":["5e2da18d-b03f-4eae-9335-03dc43c5a96b"],"befores":[],"afters":[{"name":"CloseBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1621242916449,"stop":1621242922460}],"links":[],"start":1621242841919,"stop":1621242922462}
